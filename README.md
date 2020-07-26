@@ -3,6 +3,7 @@
 
 ### Activity <br>
 Merupakan satu komponen yang berhubungan dengan pengguna. Activity menangani window (tampilan) mana yang akan di tampilkan ke dalam interface (antarmuka). Activity memiliki daur hidup (life cycle) tersendiri yang dimulai dari onCreate hingga onDestroy. <br>
+![Alt Text](https://github.com/adam033/Komponen-Dasar/blob/master/Screenshot%20(250).png)
 
 ### Intent <br>
 Komunikasi antar komponen di dalam sebuah aplikasi merupakan hal yang sangat sering dilakukan. Inilah peran dari suatu intent. Beberapa fungsi dari intent adalah dapat digunakan untuk menjalankan sebuah activity, mengirimkan pesan ke broadcast receiver, dan dapat juga digunakan untuk berkomunikasi dengan service yang sedang berjalan. <br>
@@ -32,6 +33,7 @@ o	Bantu pengguna untuk membuat keputusan tapi tetap biarkan pengguna menentukan 
 
 ### RecyclerView
 RecyclerView adalah sebuah komponen tampilan (widget) yang lebih canggih ketimbang pendahulunya listview. Ia bersifat lebih fleksibel. RecyclerView memiliki kemampuan untuk menampilkan data secara efisien dalam jumlah yang besar. Terlebih jika Anda memiliki koleksi data dengan elemen yang mampu berubah-ubah sewaktu dijalankan (runtime). <br>
+![Alt Text](https://github.com/adam033/Komponen-Dasar/blob/master/Screenshot%20(251).png)
 
 o	**RecyclerView dan LayoutManager**: Komponen antarmuka yang bertugas untuk menampilkan data set yang dimiliki di dalamnya. Layoutmanager akan mengatur posisi tampilan data baik itu secara list (vertikal), grid (baris dan kolom) atau staggered grid (grid yang memiliki susunan tak seragam / tak beraturan). <br>
 o	**Adapter**: Komponen yang akan mengatur bagaimana menampilkan data set ke dalam RecyclerView. Di sinilah terjadi proses pengisian tampilan (ViewInflate) dari file layout xml untuk tiap elemen dari data yang sebelumnya terpasang (bind) ke dalam RecyclerView. <br>
