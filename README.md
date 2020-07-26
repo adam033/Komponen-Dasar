@@ -38,6 +38,9 @@ o	**Adapter**: Komponen yang akan mengatur bagaimana menampilkan data set ke dal
 o	**Dataset**: Kumpulan data yang dimiliki dan ingin ditampilkan. Bisa berupa array, list maupun obyek map. <br>
 o	**Item Animator**: Ini yang spesial. Kita bisa pasang animasi untuk tiap item di dalamnya. Contoh animasi yang umum seperti penambahan (add) dan penghapusan (removal) item. Kita akan mempelajari hal ini pada materi terpisah. <br>
 
+_______________________________________________________________________________________________
+## Untuk Selengkapnya Cek Modul
+
 
 
 
